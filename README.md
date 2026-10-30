@@ -65,9 +65,5 @@ Os dados utilizados são provenientes dos conjuntos públicos disponibilizados p
 - Construção de indicadores e visualizações.
 - Utilização de bibliotecas do ecossistema Python para Data Analytics.
 
----
 
-**Categoria:** Análise de Dados | Data Analytics  
-**Linguagem:** Python  
-**Ambiente:** Google Colab  
 **Finalidade:** Aplicar os conhecimentos de Big Data para transformar dados brutos em informações úteis para a tomada de decisões.
