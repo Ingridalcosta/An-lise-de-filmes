@@ -70,4 +70,4 @@ Os dados utilizados são provenientes dos conjuntos públicos disponibilizados p
 **Categoria:** Análise de Dados | Data Analytics  
 **Linguagem:** Python  
 **Ambiente:** Google Colab  
-**Finalidade:** Projeto acadêmico e desenvolvimento de habilidades em análise e visualização de dados.
+**Finalidade:** Aplicar os conhecimentos de Big Data para transformar dados brutos em informações úteis para a tomada de decisões.
