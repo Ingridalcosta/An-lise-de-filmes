@@ -49,8 +49,29 @@ O projeto apresenta diferentes análises visuais e estatísticas, incluindo:
 - Correlação visual entre avaliações e quantidade de votos.
 - Indicadores gerais e seleção de filmes em destaque.
 
-## Fonte de Dados
+Fonte de Dados
 
 Os dados utilizados são provenientes dos conjuntos públicos disponibilizados pela IMDb:
 
-- [Title Basics
+Title Basics
+
+Title Ratings
+
+Competências Desenvolvidas
+
+Análise exploratória de dados (EDA).
+
+Manipulação e tratamento de grandes conjuntos de dados.
+
+Integração de diferentes fontes de dados.
+
+Análise estatística descritiva.
+
+Construção de indicadores e visualizações.
+
+Utilização de bibliotecas do ecossistema Python para Data Analytics.
+
+Categoria: Análise de Dados | Data Analytics
+Linguagem: Python
+Ambiente: Google Colab
+Finalidade: Projeto acadêmico e desenvolvimento de habilidades em análise e visualização de dados.
