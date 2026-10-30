@@ -1,56 +1,56 @@
-# 🎬 Análise de Dados de Filmes – IMDb
+# Análise Exploratória de Dados de Filmes | IMDb
 
-## 📌 Sobre o projeto
+## Visão Geral
 
-Este projeto tem como objetivo realizar uma análise exploratória de dados de filmes utilizando Python e dados públicos disponibilizados pela IMDb.
+Projeto de análise exploratória de dados (Exploratory Data Analysis – EDA) desenvolvido em Python, utilizando conjuntos de dados públicos da IMDb (Internet Movie Database).
 
-Através da coleta, tratamento e análise de dados, o projeto investiga informações sobre gêneros cinematográficos, anos de lançamento, avaliações e quantidade de votos, apresentando os resultados por meio de gráficos e indicadores visuais.
+O objetivo é explorar, tratar e analisar informações relacionadas à indústria cinematográfica, identificando padrões e tendências a partir de variáveis como gênero, ano de lançamento, avaliação média e quantidade de votos.
 
-O desenvolvimento foi realizado como atividade prática da disciplina **Tópicos de Big Data em Python**, com foco na aplicação de técnicas de análise e visualização de dados.
+O projeto contempla desde a aquisição e preparação dos dados até a construção de indicadores estatísticos e visualizações gráficas, permitindo uma interpretação mais clara das informações analisadas.
 
-## 🎯 Objetivos
+## Objetivos da Análise
 
-- Identificar os gêneros cinematográficos mais frequentes.
-- Analisar as maiores notas médias por gênero.
-- Investigar a quantidade de filmes lançados ao longo dos anos.
-- Comparar as avaliações dos filmes com a quantidade de votos.
-- Identificar filmes com boas avaliações e grande número de votos.
+- Investigar a distribuição de filmes por gênero cinematográfico.
+- Identificar os gêneros com maiores avaliações médias.
+- Analisar a evolução da quantidade de lançamentos ao longo dos anos.
+- Examinar o comportamento das avaliações médias por ano de lançamento.
+- Investigar a relação entre quantidade de votos e avaliações dos filmes.
+- Identificar produções com avaliações elevadas e expressivo volume de votos.
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias e Bibliotecas
 
-- **Python** – Linguagem de programação.
-- **Pandas** – Manipulação e análise de dados.
-- **NumPy** – Operações numéricas.
-- **Matplotlib** – Criação de gráficos.
-- **Seaborn** – Visualização de dados.
-- **Google Colab** – Ambiente de desenvolvimento.
-- **IMDb Datasets** – Fonte dos dados utilizados.
+| Tecnologia | Aplicação |
+|---|---|
+| Python | Desenvolvimento e processamento dos dados |
+| Pandas | Manipulação, limpeza e análise de dados |
+| NumPy | Operações numéricas |
+| Matplotlib | Construção de visualizações gráficas |
+| Seaborn | Análise e representação visual dos dados |
+| Google Colab | Ambiente de desenvolvimento |
 
-## 📊 Análises realizadas
+## Etapas do Desenvolvimento
 
-O projeto apresenta:
+1. **Aquisição dos dados:** download automatizado dos conjuntos de dados disponibilizados pela IMDb.
+2. **Pré-processamento:** seleção de variáveis, tratamento de valores ausentes e remoção de registros duplicados.
+3. **Integração das bases:** combinação dos dados de filmes e avaliações por meio de identificadores.
+4. **Análise exploratória:** cálculo de indicadores estatísticos e investigação de padrões.
+5. **Visualização:** desenvolvimento de gráficos para representar os resultados.
+6. **Interpretação:** identificação de tendências relacionadas aos gêneros, avaliações e lançamentos cinematográficos.
 
-- Indicadores gerais da base de dados.
-- Quantidade de filmes por ano de lançamento.
-- Evolução das notas médias ao longo dos anos.
-- Ranking dos gêneros mais frequentes.
-- Gêneros com maiores avaliações médias.
-- Distribuição das notas dos filmes.
-- Relação entre quantidade de votos e avaliações.
-- Seleção de filmes em destaque.
+## Visualizações e Indicadores
 
-## 📂 Fonte dos dados
+O projeto apresenta diferentes análises visuais e estatísticas, incluindo:
 
-Os dados foram obtidos diretamente dos conjuntos públicos disponibilizados pela IMDb:
+- Distribuição de filmes por ano de lançamento.
+- Evolução das avaliações médias ao longo dos anos.
+- Ranking dos gêneros com maior frequência.
+- Comparação das avaliações médias entre gêneros.
+- Distribuição das notas atribuídas aos filmes.
+- Correlação visual entre avaliações e quantidade de votos.
+- Indicadores gerais e seleção de filmes em destaque.
 
-- [IMDb Title Basics](https://datasets.imdbws.com/title.basics.tsv.gz)
-- [IMDb Title Ratings](https://datasets.imdbws.com/title.ratings.tsv.gz)
+## Fonte de Dados
 
-## 🚀 Aprendizados
+Os dados utilizados são provenientes dos conjuntos públicos disponibilizados pela IMDb:
 
-Com este projeto, foi possível praticar conceitos de análise exploratória de dados, tratamento de grandes conjuntos de informações, utilização de bibliotecas Python e criação de visualizações para facilitar a interpretação dos resultados.
-
----
-
-**Projeto desenvolvido para fins acadêmicos e de aprendizado em Análise de Dados com Python.**
-
+- [Title Basics
